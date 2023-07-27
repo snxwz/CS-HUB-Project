@@ -1,0 +1,9 @@
+.upload-card {
+    background-color: darkgray;
+    transition: 0.5s;
+}
+
+.upload-card:hover {
+    background-color: lightgray;
+    color: lightgray;
+}

@@ -1,0 +1,10 @@
+.cardMargin {
+  background-color: rgba(21, 25, 29, 0.773);
+    margin: 10px;
+    width: auto;
+}
+
+.marginBtn button {
+  margin-left: 5px;
+  margin-right: 5px;
+}

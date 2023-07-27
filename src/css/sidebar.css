@@ -1,0 +1,16 @@
+.nav-pills li a:hover {
+  background-color: rgb(82, 82, 255);
+}
+
+/* Add the vertical line style */
+.sidebar-vertical-line {
+  border-left: 1px solid #fff;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.shadow1{
+  box-shadow: 0 2px 2px 2px rgba(255, 255, 255, 0.23);
+}

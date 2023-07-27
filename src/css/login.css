@@ -1,0 +1,23 @@
+.my-center {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.div-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.space {
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+}
+
+.bgImg {
+  background-image: url(./../img/bg.jpg);
+  background-size: cover;
+  background-position: center;
+}
